@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: spring-container
-          image: madsens/app-with-argocd:80b629567243af5f87cc577878fc0161b1e84a15
+          image: madsens/app-with-argocd:aa4676dff7389eb1c0e94f52ac6ac72c42f69778
           ports:
             - containerPort: 8080
